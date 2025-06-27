@@ -41,11 +41,6 @@ The diagram is organized into the following sections:
 
 ---
 
-## 📁 File Included
-
-- `features.drawio.png` – Visual breakdown of all backend modules and responsibilities
-
----
 
 ## 💡 Usage
 
